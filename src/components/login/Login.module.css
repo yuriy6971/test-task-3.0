@@ -1,0 +1,111 @@
+.login_container {
+    position: relative;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.block_input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.block_name, .block_email, .block_tell {
+    width: 380px;
+    min-height: 104px;
+}
+
+.input {
+    width: inherit;
+    height: 54px;
+    font-size: 1rem;
+    color: #7E7E7E;  
+    background-color: white;
+    border: 1px solid #7E7E7E;
+    border-radius: 4px;
+    padding-left: 1rem;
+
+}
+.block_tell {
+  display: flex;
+  flex-direction: column;
+}
+
+.tell_format {
+    padding-left: 5px;
+}
+
+.block_btns {
+    width: 380px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block_radio {
+    
+}
+
+.block_submit {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.title_position {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.ul_radio {
+    list-style: none;
+}
+
+.ul_radio li {
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+li label {
+    padding-left: 8px;
+}
+
+.login {
+  width: 100px;
+  height: 34px;
+  display: block;
+  border-radius: 80px;
+  cursor: pointer;
+  background-color: #F4E041;
+  align-self: flex-end;
+}
+
+.input_file {
+    margin-left: 150px;
+    
+}
+.input_file input {
+    font-size: 1.2rem;
+}
+
+.error_info,.error_tel {
+  height: 50px;
+  text-align: center;
+  font-size: 12px;
+  color: red;
+  padding-top: 4px;
+}
+.error_tel {
+  height: 25px;
+}
+
+.preload {
+    position: absolute;
+    bottom: 600px;
+    
+}

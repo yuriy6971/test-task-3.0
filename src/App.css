@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Nunito;
+}
+
+.App {
+    min-height: 100vh;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E5E5E5;
+    
+  }
+  
