@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-task-3.0/static/css/main.6fb13b42.css",
+    "main.js": "/test-task-3.0/static/js/main.b889edff.js",
+    "static/media/fone_image.jpg": "/test-task-3.0/static/media/fone_image.2b96e77397bde68acc87.jpg",
+    "static/media/Logo.svg": "/test-task-3.0/static/media/Logo.5a0a20f72736258823f8e7d79340cde1.svg",
+    "index.html": "/test-task-3.0/index.html",
+    "static/media/loader.svg": "/test-task-3.0/static/media/loader.07376166b2d5a2649342e9f5104a13a1.svg",
+    "main.6fb13b42.css.map": "/test-task-3.0/static/css/main.6fb13b42.css.map",
+    "main.b889edff.js.map": "/test-task-3.0/static/js/main.b889edff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb13b42.css",
+    "static/js/main.b889edff.js"
+  ]
+}
